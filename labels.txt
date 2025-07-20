@@ -1,0 +1,8 @@
+0 cam(evet)
+1 metal(evet)
+2 kagit(evet)
+3 motor yagi(evet?)
+4 karton(evet)
+5 naylon poset(hayir)
+6 plastik(evet)
+7 florasan lambalar(hayir)
