@@ -1,0 +1,1 @@
+# Projemi uzatmadan anlatıyım bu projede attığımız görselin geri dönüşüp dönüşememesinin bilgisini verir ve görseldeki eşya geri dönüşüyorsa geri dönüşüm hikayesini yazar. Ama eğer o görsel veri tabanına uymuyorsa "veri tabanıma uymuyor der".
